@@ -5,7 +5,7 @@ Three knobs on a box to control everything.
 
 1x Enclosure
 
-3x rotary encoder
+3x rotary encoders with push buttons
 
 1x RGB Led
 
